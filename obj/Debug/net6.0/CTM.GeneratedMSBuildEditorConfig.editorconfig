@@ -9,49 +9,49 @@ build_property.EnforceExtendedAnalyzerRules =
 build_property._SupportedPlatformList = Linux,macOS,Windows
 build_property.RootNamespace = CTM
 build_property.RootNamespace = CTM
-build_property.ProjectDir = c:\Users\Rail\Desktop\kalzak\
+build_property.ProjectDir = C:\Users\Rail\Desktop\kalzak\
 build_property.RazorLangVersion = 6.0
 build_property.SupportLocalizedComponentNames = 
 build_property.GenerateRazorMetadataSourceChecksumAttributes = true
-build_property.MSBuildProjectDirectory = c:\Users\Rail\Desktop\kalzak
+build_property.MSBuildProjectDirectory = C:\Users\Rail\Desktop\kalzak
 build_property._RazorSourceGeneratorDebug = 
 
-[c:/Users/Rail/Desktop/kalzak/Views/Home/About.cshtml]
+[C:/Users/Rail/Desktop/kalzak/Views/Home/About.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSG9tZVxBYm91dC5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 
 
-[c:/Users/Rail/Desktop/kalzak/Views/Home/Contact.cshtml]
+[C:/Users/Rail/Desktop/kalzak/Views/Home/Contact.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSG9tZVxDb250YWN0LmNzaHRtbA==
 build_metadata.AdditionalFiles.CssScope = 
 
-[c:/Users/Rail/Desktop/kalzak/Views/Home/Index.cshtml]
+[C:/Users/Rail/Desktop/kalzak/Views/Home/Index.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSG9tZVxJbmRleC5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 
 
-[c:/Users/Rail/Desktop/kalzak/Views/Home/Privacy.cshtml]
+[C:/Users/Rail/Desktop/kalzak/Views/Home/Privacy.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSG9tZVxQcml2YWN5LmNzaHRtbA==
 build_metadata.AdditionalFiles.CssScope = 
 
-[c:/Users/Rail/Desktop/kalzak/Views/Shared/Error.cshtml]
+[C:/Users/Rail/Desktop/kalzak/Views/Shared/Error.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXEVycm9yLmNzaHRtbA==
 build_metadata.AdditionalFiles.CssScope = 
 
-[c:/Users/Rail/Desktop/kalzak/Views/Shared/_Layout.cshtml]
+[C:/Users/Rail/Desktop/kalzak/Views/Shared/_Layout.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXF9MYXlvdXQuY3NodG1s
 build_metadata.AdditionalFiles.CssScope = 
 
-[c:/Users/Rail/Desktop/kalzak/Views/Shared/_ValidationScriptsPartial.cshtml]
+[C:/Users/Rail/Desktop/kalzak/Views/Shared/_ValidationScriptsPartial.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXF9WYWxpZGF0aW9uU2NyaXB0c1BhcnRpYWwuY3NodG1s
 build_metadata.AdditionalFiles.CssScope = 
 
-[c:/Users/Rail/Desktop/kalzak/Views/Users/Index.cshtml]
+[C:/Users/Rail/Desktop/kalzak/Views/Users/Index.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcVXNlcnNcSW5kZXguY3NodG1s
 build_metadata.AdditionalFiles.CssScope = 
 
-[c:/Users/Rail/Desktop/kalzak/Views/_ViewImports.cshtml]
+[C:/Users/Rail/Desktop/kalzak/Views/_ViewImports.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcX1ZpZXdJbXBvcnRzLmNzaHRtbA==
 build_metadata.AdditionalFiles.CssScope = 
 
-[c:/Users/Rail/Desktop/kalzak/Views/_ViewStart.cshtml]
+[C:/Users/Rail/Desktop/kalzak/Views/_ViewStart.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcX1ZpZXdTdGFydC5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 
